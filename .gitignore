@@ -2,3 +2,6 @@ __pycache__
 .env
 .learn
 .kaggle
+dogs-vs-cats*.zip
+*/test.zip
+*/train.zip
